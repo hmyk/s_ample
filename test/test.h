@@ -1,3 +1,3 @@
-#include "external1.h"
+#include <iostream>
 
 void test();
